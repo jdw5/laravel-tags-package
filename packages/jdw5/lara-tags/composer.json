@@ -1,0 +1,15 @@
+{
+    "name": "jdw5/lara-tags",
+    "description": "Eloquent tagging package using Laravel.",
+    "autoload": {
+        "psr-4" : {
+            "jdw5\\lara-tags\\" : "src"
+        }
+    },
+    
+    "require": {
+        "php" : ">=5.5.8",
+        "illuminate/database" : ">=5.0",
+        "illuminate/support" : ">=5.0"
+    }
+}
