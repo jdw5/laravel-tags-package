@@ -185,6 +185,7 @@ return [
         /*
          * Package Service Providers...
          */
+        jdw5\Laratags\LaratagsServiceProvider::class,
 
         /*
          * Application Service Providers...

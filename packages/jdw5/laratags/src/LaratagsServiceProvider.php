@@ -1,10 +1,10 @@
 <?php
 
-namespace jdw5\Laratags;
+namespace jdw5\LaraTags;
 
 use Illuminate\Support\ServiceProvider;
 
-class LaratagsServiceProvider extends ServiceProvider
+class LaraTagsServiceProvider extends ServiceProvider
 {
     /**
      * Register services.
