@@ -27,7 +27,8 @@
         "psr-4": {
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
-            "Database\\Seeders\\": "database/seeders/"
+            "Database\\Seeders\\": "database/seeders/",
+            "jdw5\\lara-tags\\" : "packages/jdw5/lara-tags/src/"
         }
     },
     "autoload-dev": {

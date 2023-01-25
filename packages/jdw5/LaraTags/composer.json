@@ -1,5 +1,5 @@
 {
-    "name": "jdw5/lara-tags",
+    "name": "jdw5/laratags",
     "description": "Eloquent tagging package using Laravel.",
     "autoload": {
         "psr-4" : {
